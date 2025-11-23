@@ -49,7 +49,7 @@ Hi there! 👋 I'm **Aziz Khaldi**, a passionate **Full Stack Developer** from A
 
 ## 🔥 My Portfolio:
 
-- **<a href="https://azizkhaldiportfolio.vercel.app/" target="_blank" rel="noopener noreferrer">Link</a>**
+- **<a href="https://azizkhaldi.com/" target="_blank" rel="noopener noreferrer">Link</a>**
 ---
 
 ## 🌱 Currently Learning:
