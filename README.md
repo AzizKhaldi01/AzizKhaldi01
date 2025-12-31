@@ -1,6 +1,6 @@
 # 💻 Aziz Khaldi | Full Stack Developer & Designer
 
-Hi there! 👋 I'm **Aziz Khaldi**, a passionate **Full Stack Developer** from Algeria with over **4 years** of experience building responsive, interactive, and scalable web applications. While I specialize in **front-end development**, I also have strong skills in **back-end technologies** and enjoy working on all aspects of web development.
+Hi there! 👋 I'm **Aziz Khaldi**, a passionate **Full Stack Developer** from Algeria with over **5 years** of experience building responsive, interactive, and scalable web applications. While I specialize in **front-end development**, I also have strong skills in **back-end technologies** and enjoy working on all aspects of web development.
 
 
 ---
